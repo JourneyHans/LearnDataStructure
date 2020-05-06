@@ -1,0 +1,7 @@
+G:\practice\data_structure\00_List\ListTest\ListTest\bin\Debug\ListTest.exe.config
+G:\practice\data_structure\00_List\ListTest\ListTest\bin\Debug\ListTest.exe
+G:\practice\data_structure\00_List\ListTest\ListTest\bin\Debug\ListTest.pdb
+G:\practice\data_structure\00_List\ListTest\ListTest\obj\Debug\ListTest.csprojAssemblyReference.cache
+G:\practice\data_structure\00_List\ListTest\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+G:\practice\data_structure\00_List\ListTest\ListTest\obj\Debug\ListTest.exe
+G:\practice\data_structure\00_List\ListTest\ListTest\obj\Debug\ListTest.pdb
